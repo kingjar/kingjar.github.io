@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(191, 84, 103);
+    font-style: italic;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+/*p {*/
+/*    font-style: italic;*/
+/*}*/
+
+/* {*/
+/*    max-width: 500px;*/
+/*    height: 100px;*/
+/*    background-color: powderblue;*/
+/*}*/
